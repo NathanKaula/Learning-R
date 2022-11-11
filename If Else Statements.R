@@ -22,6 +22,9 @@ if(count >= 5 & count < 10){
   "work harder"
 }
 
+#Trials
+
+
 
 category <- "D"
 price <- 1000
